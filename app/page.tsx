@@ -5,8 +5,11 @@ export default function page() {
     <NewPage>
       <img src="https://imageio.forbes.com/specials-images/imageserve/66dfc76d1200d731675094e9/Businessman-touching-the-brain-working-of-Artificial-Intelligence--AI---Automation-/960x0.jpg?format=jpg&width=960" alt="зображення" className="w-[80%] h-auto"/>
 
-      <p>
+      <h1 className="title">
         Вітаємо на нашому сайті, присвяченому аналізу блокчейн-технологій!
+      </h1>
+      <p>
+        
         Цей ресурс створено з метою дати всебічне уявлення про те, що таке блокчейн, як він працює та які перспективи відкриваються перед ним. Ми розглядаємо як технічні, так і правові, а також економічні аспекти цієї інноваційної технології, що вже сьогодні змінює фінансовий, логістичний, управлінський та інші сектори.
       </p>
       <p>

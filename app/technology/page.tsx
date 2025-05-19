@@ -6,8 +6,9 @@ export default function page() {
     <NewPage>
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBWg9kroNQcUHePjkfGtoIheDSWmfmKOnVQ&s" alt="зображення" className="w-[80%] h-auto"/>
       <section className="w-full flex flex-col">
+        <h1 className="title"> Як працює блокчейн: від структури блоків до алгоритмів консенсусу</h1>
         <p>
-          Як працює блокчейн: від структури блоків до алгоритмів консенсусу
+         
           Технічна суть блокчейн-технологій полягає у створенні розподіленого
           реєстру, де кожен блок містить набір транзакцій, що з’єднані у
           хронологічному порядку. Ця система гарантує незмінність даних завдяки

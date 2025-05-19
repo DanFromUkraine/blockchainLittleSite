@@ -10,6 +10,10 @@
   p {
     @apply flex text-center text-[18px];
   }
+
+  .title {
+    @apply text-[#0e1a37] font-bold text-[24px]
+  }
 }
 
 @layer utilities {
