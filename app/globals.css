@@ -12,7 +12,7 @@
   }
 
   .title {
-    @apply text-[#0e1a37] font-bold text-[24px]
+    @apply text-[#0e1a37] text-center font-bold text-[24px]
   }
 }
 

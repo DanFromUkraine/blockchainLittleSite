@@ -4,7 +4,7 @@ import NewPage from "../NewPage";
 export default function page() {
   return (
     <NewPage>
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBWg9kroNQcUHePjkfGtoIheDSWmfmKOnVQ&s" alt="зображення" className="w-[80%] h-auto"/>
+     <img src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-1500x1000.jpg" alt="зображення" className="w-[80%] h-auto"/>
       <section className="w-full flex flex-col">
         <h1 className="title"> Як працює блокчейн: від структури блоків до алгоритмів консенсусу</h1>
         <p>
