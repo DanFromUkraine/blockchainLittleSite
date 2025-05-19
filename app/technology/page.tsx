@@ -4,6 +4,7 @@ import NewPage from "../NewPage";
 export default function page() {
   return (
     <NewPage>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBWg9kroNQcUHePjkfGtoIheDSWmfmKOnVQ&s" alt="зображення" />
       <section className="w-full flex flex-col">
         <p>
           Як працює блокчейн: від структури блоків до алгоритмів консенсусу
