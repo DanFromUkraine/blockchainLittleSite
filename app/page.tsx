@@ -3,7 +3,7 @@ import NewPage from "./NewPage";
 export default function page() {
   return (
     <NewPage>
-      <img src="https://imageio.forbes.com/specials-images/imageserve/66dfc76d1200d731675094e9/Businessman-touching-the-brain-working-of-Artificial-Intelligence--AI---Automation-/960x0.jpg?format=jpg&width=960" alt="зображення" />
+      <img src="https://imageio.forbes.com/specials-images/imageserve/66dfc76d1200d731675094e9/Businessman-touching-the-brain-working-of-Artificial-Intelligence--AI---Automation-/960x0.jpg?format=jpg&width=960" alt="зображення" className="w-[80%] h-auto"/>
 
       <p>
         Вітаємо на нашому сайті, присвяченому аналізу блокчейн-технологій!

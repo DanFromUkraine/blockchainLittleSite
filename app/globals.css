@@ -6,6 +6,10 @@
   * {
     @apply box-border;
   }
+
+  p {
+    @apply flex justify-center text-[18px];
+  }
 }
 
 @layer utilities {

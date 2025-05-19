@@ -4,7 +4,7 @@ import NewPage from "../NewPage";
 export default function page() {
   return (
     <NewPage>
-      <img src="https://daliz.finance/sites/default/files/styles/1200x630/public/blogs_images/fiatnye-dengi.jpg?itok=VHW36rdp" alt="зображення" />
+      <img src="https://daliz.finance/sites/default/files/styles/1200x630/public/blogs_images/fiatnye-dengi.jpg?itok=VHW36rdp" alt="зображення" className="w-[80%] h-auto"/>
 
       <p>Блокчейн у світі фінансів: можливості, ризики та перспективи заробітку
         Блокчейн-технології здобули неабияку популярність завдяки своїм фінансовим перспективам. З одного боку, вони відкривають можливості для високих заробітків завдяки криптовалютам, ICO (Initial Coin Offering) та інноваційним проєктам у сфері DeFi (Decentralized Finance). З іншого боку, ринок цифрових активів характеризується високою волатильністю, а також ризиками, пов’язаними з шахрайськими схемами та відсутністю повного правового регулювання.</p>
